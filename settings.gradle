@@ -1,0 +1,2 @@
+rootProject.name='early_bird'
+include ':app'
